@@ -1,0 +1,12 @@
+2023-12-21-19:11:25 INFO  BaseTest : setDriver :  Spark report configured
+2023-12-21-19:11:39 INFO  BaseTest : getBrowserType : Chrome configured
+2023-12-21-19:11:39 INFO  BaseTest : setDriver : driver object assigned
+2023-12-21-19:11:40 INFO  BaseTest : setup : loginTest1 Test Object for reporting is created
+2023-12-21-19:11:40 INFO  BaseTest : setup : loginPagePassword_TC2 Test Object for reporting is created
+2023-12-21-19:11:40 INFO  BaseTest : setup : loginTestForgotPassword_TC3 Test Object for reporting is created
+2023-12-21-19:11:41 INFO  BaseTest : setup : loginTestWrongDetail_TC4 Test Object for reporting is created
+2023-12-21-19:11:41 INFO  BaseTest : removeDriver : removed driver
+2023-12-21-19:15:10 INFO  BaseTest : setDriver :  Spark report configured
+2023-12-21-19:15:20 INFO  BaseTest : getBrowserType : Chrome configured
+2023-12-21-19:15:20 INFO  BaseTest : setDriver : driver object assigned
+2023-12-21-19:15:20 INFO  BaseTest : setup : loginTest1 Test Object for reporting is created
